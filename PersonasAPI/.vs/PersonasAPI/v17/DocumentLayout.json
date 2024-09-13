@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\UNIVERSIDAD\\Ciclos\\Ciclo 02-2024\\DSE\\Lab\\Lab 9\\PersonasAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{98D4BB87-DD7B-4E2B-BD00-156EF9740DB3}|PersonasAPI.Tests\\PersonasAPI.Tests.csproj|d:\\universidad\\ciclos\\ciclo 02-2024\\dse\\lab\\lab 9\\personasapi\\personasapi.tests\\personacontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98D4BB87-DD7B-4E2B-BD00-156EF9740DB3}|PersonasAPI.Tests\\PersonasAPI.Tests.csproj|solutionrelative:personasapi.tests\\personacontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07E442C9-8CC9-4B87-A86D-619CF5C59DEB}|PersonasAPI\\PersonasAPI.csproj|d:\\universidad\\ciclos\\ciclo 02-2024\\dse\\lab\\lab 9\\personasapi\\personasapi\\controllers\\personascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07E442C9-8CC9-4B87-A86D-619CF5C59DEB}|PersonasAPI\\PersonasAPI.csproj|solutionrelative:personasapi\\controllers\\personascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07E442C9-8CC9-4B87-A86D-619CF5C59DEB}|PersonasAPI\\PersonasAPI.csproj|d:\\universidad\\ciclos\\ciclo 02-2024\\dse\\lab\\lab 9\\personasapi\\personasapi\\models\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07E442C9-8CC9-4B87-A86D-619CF5C59DEB}|PersonasAPI\\PersonasAPI.csproj|solutionrelative:personasapi\\models\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07E442C9-8CC9-4B87-A86D-619CF5C59DEB}|PersonasAPI\\PersonasAPI.csproj|d:\\universidad\\ciclos\\ciclo 02-2024\\dse\\lab\\lab 9\\personasapi\\personasapi\\models\\personadbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07E442C9-8CC9-4B87-A86D-619CF5C59DEB}|PersonasAPI\\PersonasAPI.csproj|solutionrelative:personasapi\\models\\personadbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98D4BB87-DD7B-4E2B-BD00-156EF9740DB3}|PersonasAPI.Tests\\PersonasAPI.Tests.csproj|d:\\universidad\\ciclos\\ciclo 02-2024\\dse\\lab\\lab 9\\personasapi\\personasapi.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98D4BB87-DD7B-4E2B-BD00-156EF9740DB3}|PersonasAPI.Tests\\PersonasAPI.Tests.csproj|solutionrelative:personasapi.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98D4BB87-DD7B-4E2B-BD00-156EF9740DB3}|PersonasAPI.Tests\\PersonasAPI.Tests.csproj|d:\\universidad\\ciclos\\ciclo 02-2024\\dse\\lab\\lab 9\\personasapi\\personasapi.tests\\setup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98D4BB87-DD7B-4E2B-BD00-156EF9740DB3}|PersonasAPI.Tests\\PersonasAPI.Tests.csproj|solutionrelative:personasapi.tests\\setup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07E442C9-8CC9-4B87-A86D-619CF5C59DEB}|PersonasAPI\\PersonasAPI.csproj|d:\\universidad\\ciclos\\ciclo 02-2024\\dse\\lab\\lab 9\\personasapi\\personasapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07E442C9-8CC9-4B87-A86D-619CF5C59DEB}|PersonasAPI\\PersonasAPI.csproj|solutionrelative:personasapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07E442C9-8CC9-4B87-A86D-619CF5C59DEB}|PersonasAPI\\PersonasAPI.csproj|d:\\universidad\\ciclos\\ciclo 02-2024\\dse\\lab\\lab 9\\personasapi\\personasapi\\personasapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{07E442C9-8CC9-4B87-A86D-619CF5C59DEB}|PersonasAPI\\PersonasAPI.csproj|solutionrelative:personasapi\\personasapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98D4BB87-DD7B-4E2B-BD00-156EF9740DB3}|PersonasAPI.Tests\\PersonasAPI.Tests.csproj|d:\\universidad\\ciclos\\ciclo 02-2024\\dse\\lab\\lab 9\\personasapi\\personasapi.tests\\personasapi.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{98D4BB87-DD7B-4E2B-BD00-156EF9740DB3}|PersonasAPI.Tests\\PersonasAPI.Tests.csproj|solutionrelative:personasapi.tests\\personasapi.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Persona.cs",
+              "DocumentMoniker": "D:\\UNIVERSIDAD\\Ciclos\\Ciclo 02-2024\\DSE\\Lab\\Lab 9\\PersonasAPI\\PersonasAPI\\Models\\Persona.cs",
+              "RelativeDocumentMoniker": "PersonasAPI\\Models\\Persona.cs",
+              "ToolTip": "D:\\UNIVERSIDAD\\Ciclos\\Ciclo 02-2024\\DSE\\Lab\\Lab 9\\PersonasAPI\\PersonasAPI\\Models\\Persona.cs",
+              "RelativeToolTip": "PersonasAPI\\Models\\Persona.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T00:28:37.446Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PersonasController.cs",
+              "DocumentMoniker": "D:\\UNIVERSIDAD\\Ciclos\\Ciclo 02-2024\\DSE\\Lab\\Lab 9\\PersonasAPI\\PersonasAPI\\Controllers\\PersonasController.cs",
+              "RelativeDocumentMoniker": "PersonasAPI\\Controllers\\PersonasController.cs",
+              "ToolTip": "D:\\UNIVERSIDAD\\Ciclos\\Ciclo 02-2024\\DSE\\Lab\\Lab 9\\PersonasAPI\\PersonasAPI\\Controllers\\PersonasController.cs",
+              "RelativeToolTip": "PersonasAPI\\Controllers\\PersonasController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwBIAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T00:39:57.208Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PersonaControllerTests.cs",
+              "DocumentMoniker": "D:\\UNIVERSIDAD\\Ciclos\\Ciclo 02-2024\\DSE\\Lab\\Lab 9\\PersonasAPI\\PersonasAPI.Tests\\PersonaControllerTests.cs",
+              "RelativeDocumentMoniker": "PersonasAPI.Tests\\PersonaControllerTests.cs",
+              "ToolTip": "D:\\UNIVERSIDAD\\Ciclos\\Ciclo 02-2024\\DSE\\Lab\\Lab 9\\PersonasAPI\\PersonasAPI.Tests\\PersonaControllerTests.cs",
+              "RelativeToolTip": "PersonasAPI.Tests\\PersonaControllerTests.cs",
+              "ViewState": "AgIAAFgAAAAAAAAAAAAQwGEAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T00:35:49.559Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PersonaDbContext.cs",
+              "DocumentMoniker": "D:\\UNIVERSIDAD\\Ciclos\\Ciclo 02-2024\\DSE\\Lab\\Lab 9\\PersonasAPI\\PersonasAPI\\Models\\PersonaDbContext.cs",
+              "RelativeDocumentMoniker": "PersonasAPI\\Models\\PersonaDbContext.cs",
+              "ToolTip": "D:\\UNIVERSIDAD\\Ciclos\\Ciclo 02-2024\\DSE\\Lab\\Lab 9\\PersonasAPI\\PersonasAPI\\Models\\PersonaDbContext.cs",
+              "RelativeToolTip": "PersonasAPI\\Models\\PersonaDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T00:33:25.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "D:\\UNIVERSIDAD\\Ciclos\\Ciclo 02-2024\\DSE\\Lab\\Lab 9\\PersonasAPI\\PersonasAPI.Tests\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "PersonasAPI.Tests\\UnitTest1.cs",
+              "ToolTip": "D:\\UNIVERSIDAD\\Ciclos\\Ciclo 02-2024\\DSE\\Lab\\Lab 9\\PersonasAPI\\PersonasAPI.Tests\\UnitTest1.cs",
+              "RelativeToolTip": "PersonasAPI.Tests\\UnitTest1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T00:25:25.034Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Setup.cs",
+              "DocumentMoniker": "D:\\UNIVERSIDAD\\Ciclos\\Ciclo 02-2024\\DSE\\Lab\\Lab 9\\PersonasAPI\\PersonasAPI.Tests\\Setup.cs",
+              "RelativeDocumentMoniker": "PersonasAPI.Tests\\Setup.cs",
+              "ToolTip": "D:\\UNIVERSIDAD\\Ciclos\\Ciclo 02-2024\\DSE\\Lab\\Lab 9\\PersonasAPI\\PersonasAPI.Tests\\Setup.cs",
+              "RelativeToolTip": "PersonasAPI.Tests\\Setup.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T00:34:56.706Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\UNIVERSIDAD\\Ciclos\\Ciclo 02-2024\\DSE\\Lab\\Lab 9\\PersonasAPI\\PersonasAPI\\Program.cs",
+              "RelativeDocumentMoniker": "PersonasAPI\\Program.cs",
+              "ToolTip": "D:\\UNIVERSIDAD\\Ciclos\\Ciclo 02-2024\\DSE\\Lab\\Lab 9\\PersonasAPI\\PersonasAPI\\Program.cs",
+              "RelativeToolTip": "PersonasAPI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T00:35:56.356Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PersonasAPI",
+              "DocumentMoniker": "D:\\UNIVERSIDAD\\Ciclos\\Ciclo 02-2024\\DSE\\Lab\\Lab 9\\PersonasAPI\\PersonasAPI\\PersonasAPI.csproj",
+              "RelativeDocumentMoniker": "PersonasAPI\\PersonasAPI.csproj",
+              "ToolTip": "D:\\UNIVERSIDAD\\Ciclos\\Ciclo 02-2024\\DSE\\Lab\\Lab 9\\PersonasAPI\\PersonasAPI\\PersonasAPI.csproj",
+              "RelativeToolTip": "PersonasAPI\\PersonasAPI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-13T00:26:29.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PersonasAPI.Tests",
+              "DocumentMoniker": "D:\\UNIVERSIDAD\\Ciclos\\Ciclo 02-2024\\DSE\\Lab\\Lab 9\\PersonasAPI\\PersonasAPI.Tests\\PersonasAPI.Tests.csproj",
+              "RelativeDocumentMoniker": "PersonasAPI.Tests\\PersonasAPI.Tests.csproj",
+              "ToolTip": "D:\\UNIVERSIDAD\\Ciclos\\Ciclo 02-2024\\DSE\\Lab\\Lab 9\\PersonasAPI\\PersonasAPI.Tests\\PersonasAPI.Tests.csproj",
+              "RelativeToolTip": "PersonasAPI.Tests\\PersonasAPI.Tests.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-13T00:26:07.348Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

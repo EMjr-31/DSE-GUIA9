@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\UNIVERSIDAD\\Ciclos\\Ciclo 02-2024\\DSE\\Lab\\Lab 9\\LibrosAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E41DB078-12E6-4796-BC11-083D9DDA95C6}|LibrosAPI.Tests\\LibrosAPI.Tests.csproj|d:\\universidad\\ciclos\\ciclo 02-2024\\dse\\lab\\lab 9\\librosapi\\librosapi.tests\\libroscontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E41DB078-12E6-4796-BC11-083D9DDA95C6}|LibrosAPI.Tests\\LibrosAPI.Tests.csproj|solutionrelative:librosapi.tests\\libroscontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E41DB078-12E6-4796-BC11-083D9DDA95C6}|LibrosAPI.Tests\\LibrosAPI.Tests.csproj|d:\\universidad\\ciclos\\ciclo 02-2024\\dse\\lab\\lab 9\\librosapi\\librosapi.tests\\setup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E41DB078-12E6-4796-BC11-083D9DDA95C6}|LibrosAPI.Tests\\LibrosAPI.Tests.csproj|solutionrelative:librosapi.tests\\setup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C55A8D21-5833-48D2-8E62-0BBE3FDACCE1}|LibrosAPI\\LibrosAPI.csproj|d:\\universidad\\ciclos\\ciclo 02-2024\\dse\\lab\\lab 9\\librosapi\\librosapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C55A8D21-5833-48D2-8E62-0BBE3FDACCE1}|LibrosAPI\\LibrosAPI.csproj|solutionrelative:librosapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E41DB078-12E6-4796-BC11-083D9DDA95C6}|LibrosAPI.Tests\\LibrosAPI.Tests.csproj|d:\\universidad\\ciclos\\ciclo 02-2024\\dse\\lab\\lab 9\\librosapi\\librosapi.tests\\librosapi.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E41DB078-12E6-4796-BC11-083D9DDA95C6}|LibrosAPI.Tests\\LibrosAPI.Tests.csproj|solutionrelative:librosapi.tests\\librosapi.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C55A8D21-5833-48D2-8E62-0BBE3FDACCE1}|LibrosAPI\\LibrosAPI.csproj|d:\\universidad\\ciclos\\ciclo 02-2024\\dse\\lab\\lab 9\\librosapi\\librosapi\\controllers\\libroscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C55A8D21-5833-48D2-8E62-0BBE3FDACCE1}|LibrosAPI\\LibrosAPI.csproj|solutionrelative:librosapi\\controllers\\libroscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C55A8D21-5833-48D2-8E62-0BBE3FDACCE1}|LibrosAPI\\LibrosAPI.csproj|d:\\universidad\\ciclos\\ciclo 02-2024\\dse\\lab\\lab 9\\librosapi\\librosapi\\models\\librodbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C55A8D21-5833-48D2-8E62-0BBE3FDACCE1}|LibrosAPI\\LibrosAPI.csproj|solutionrelative:librosapi\\models\\librodbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C55A8D21-5833-48D2-8E62-0BBE3FDACCE1}|LibrosAPI\\LibrosAPI.csproj|d:\\universidad\\ciclos\\ciclo 02-2024\\dse\\lab\\lab 9\\librosapi\\librosapi\\models\\libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C55A8D21-5833-48D2-8E62-0BBE3FDACCE1}|LibrosAPI\\LibrosAPI.csproj|solutionrelative:librosapi\\models\\libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C55A8D21-5833-48D2-8E62-0BBE3FDACCE1}|LibrosAPI\\LibrosAPI.csproj|d:\\universidad\\ciclos\\ciclo 02-2024\\dse\\lab\\lab 9\\librosapi\\librosapi\\librosapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C55A8D21-5833-48D2-8E62-0BBE3FDACCE1}|LibrosAPI\\LibrosAPI.csproj|solutionrelative:librosapi\\librosapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E41DB078-12E6-4796-BC11-083D9DDA95C6}|LibrosAPI.Tests\\LibrosAPI.Tests.csproj|d:\\universidad\\ciclos\\ciclo 02-2024\\dse\\lab\\lab 9\\librosapi\\librosapi.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E41DB078-12E6-4796-BC11-083D9DDA95C6}|LibrosAPI.Tests\\LibrosAPI.Tests.csproj|solutionrelative:librosapi.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LibrosControllerTests.cs",
+              "DocumentMoniker": "D:\\UNIVERSIDAD\\Ciclos\\Ciclo 02-2024\\DSE\\Lab\\Lab 9\\LibrosAPI\\LibrosAPI.Tests\\LibrosControllerTests.cs",
+              "RelativeDocumentMoniker": "LibrosAPI.Tests\\LibrosControllerTests.cs",
+              "ToolTip": "D:\\UNIVERSIDAD\\Ciclos\\Ciclo 02-2024\\DSE\\Lab\\Lab 9\\LibrosAPI\\LibrosAPI.Tests\\LibrosControllerTests.cs*",
+              "RelativeToolTip": "LibrosAPI.Tests\\LibrosControllerTests.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T00:17:42.59Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Setup.cs",
+              "DocumentMoniker": "D:\\UNIVERSIDAD\\Ciclos\\Ciclo 02-2024\\DSE\\Lab\\Lab 9\\LibrosAPI\\LibrosAPI.Tests\\Setup.cs",
+              "RelativeDocumentMoniker": "LibrosAPI.Tests\\Setup.cs",
+              "ToolTip": "D:\\UNIVERSIDAD\\Ciclos\\Ciclo 02-2024\\DSE\\Lab\\Lab 9\\LibrosAPI\\LibrosAPI.Tests\\Setup.cs*",
+              "RelativeToolTip": "LibrosAPI.Tests\\Setup.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T00:15:53.172Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\UNIVERSIDAD\\Ciclos\\Ciclo 02-2024\\DSE\\Lab\\Lab 9\\LibrosAPI\\LibrosAPI\\Program.cs",
+              "RelativeDocumentMoniker": "LibrosAPI\\Program.cs",
+              "ToolTip": "D:\\UNIVERSIDAD\\Ciclos\\Ciclo 02-2024\\DSE\\Lab\\Lab 9\\LibrosAPI\\LibrosAPI\\Program.cs*",
+              "RelativeToolTip": "LibrosAPI\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T00:14:29.157Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LibrosController.cs",
+              "DocumentMoniker": "D:\\UNIVERSIDAD\\Ciclos\\Ciclo 02-2024\\DSE\\Lab\\Lab 9\\LibrosAPI\\LibrosAPI\\Controllers\\LibrosController.cs",
+              "RelativeDocumentMoniker": "LibrosAPI\\Controllers\\LibrosController.cs",
+              "ToolTip": "D:\\UNIVERSIDAD\\Ciclos\\Ciclo 02-2024\\DSE\\Lab\\Lab 9\\LibrosAPI\\LibrosAPI\\Controllers\\LibrosController.cs*",
+              "RelativeToolTip": "LibrosAPI\\Controllers\\LibrosController.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T00:10:11.324Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LibroDbContext.cs",
+              "DocumentMoniker": "D:\\UNIVERSIDAD\\Ciclos\\Ciclo 02-2024\\DSE\\Lab\\Lab 9\\LibrosAPI\\LibrosAPI\\Models\\LibroDbContext.cs",
+              "RelativeDocumentMoniker": "LibrosAPI\\Models\\LibroDbContext.cs",
+              "ToolTip": "D:\\UNIVERSIDAD\\Ciclos\\Ciclo 02-2024\\DSE\\Lab\\Lab 9\\LibrosAPI\\LibrosAPI\\Models\\LibroDbContext.cs",
+              "RelativeToolTip": "LibrosAPI\\Models\\LibroDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T00:06:23.144Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Libro.cs",
+              "DocumentMoniker": "D:\\UNIVERSIDAD\\Ciclos\\Ciclo 02-2024\\DSE\\Lab\\Lab 9\\LibrosAPI\\LibrosAPI\\Models\\Libro.cs",
+              "RelativeDocumentMoniker": "LibrosAPI\\Models\\Libro.cs",
+              "ToolTip": "D:\\UNIVERSIDAD\\Ciclos\\Ciclo 02-2024\\DSE\\Lab\\Lab 9\\LibrosAPI\\LibrosAPI\\Models\\Libro.cs",
+              "RelativeToolTip": "LibrosAPI\\Models\\Libro.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T00:02:56.396Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LibrosAPI.Tests",
+              "DocumentMoniker": "D:\\UNIVERSIDAD\\Ciclos\\Ciclo 02-2024\\DSE\\Lab\\Lab 9\\LibrosAPI\\LibrosAPI.Tests\\LibrosAPI.Tests.csproj",
+              "RelativeDocumentMoniker": "LibrosAPI.Tests\\LibrosAPI.Tests.csproj",
+              "ToolTip": "D:\\UNIVERSIDAD\\Ciclos\\Ciclo 02-2024\\DSE\\Lab\\Lab 9\\LibrosAPI\\LibrosAPI.Tests\\LibrosAPI.Tests.csproj",
+              "RelativeToolTip": "LibrosAPI.Tests\\LibrosAPI.Tests.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-12T23:57:27.382Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LibrosAPI",
+              "DocumentMoniker": "D:\\UNIVERSIDAD\\Ciclos\\Ciclo 02-2024\\DSE\\Lab\\Lab 9\\LibrosAPI\\LibrosAPI\\LibrosAPI.csproj",
+              "RelativeDocumentMoniker": "LibrosAPI\\LibrosAPI.csproj",
+              "ToolTip": "D:\\UNIVERSIDAD\\Ciclos\\Ciclo 02-2024\\DSE\\Lab\\Lab 9\\LibrosAPI\\LibrosAPI\\LibrosAPI.csproj",
+              "RelativeToolTip": "LibrosAPI\\LibrosAPI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-13T00:02:29.359Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "D:\\UNIVERSIDAD\\Ciclos\\Ciclo 02-2024\\DSE\\Lab\\Lab 9\\LibrosAPI\\LibrosAPI.Tests\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "LibrosAPI.Tests\\UnitTest1.cs",
+              "ToolTip": "D:\\UNIVERSIDAD\\Ciclos\\Ciclo 02-2024\\DSE\\Lab\\Lab 9\\LibrosAPI\\LibrosAPI.Tests\\UnitTest1.cs",
+              "RelativeToolTip": "LibrosAPI.Tests\\UnitTest1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T23:55:18.347Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

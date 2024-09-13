@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35208.52
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PersonasAPI", "PersonasAPI\PersonasAPI.csproj", "{07E442C9-8CC9-4B87-A86D-619CF5C59DEB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PersonasAPI.Tests", "PersonasAPI.Tests\PersonasAPI.Tests.csproj", "{98D4BB87-DD7B-4E2B-BD00-156EF9740DB3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{07E442C9-8CC9-4B87-A86D-619CF5C59DEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07E442C9-8CC9-4B87-A86D-619CF5C59DEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07E442C9-8CC9-4B87-A86D-619CF5C59DEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07E442C9-8CC9-4B87-A86D-619CF5C59DEB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{98D4BB87-DD7B-4E2B-BD00-156EF9740DB3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98D4BB87-DD7B-4E2B-BD00-156EF9740DB3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98D4BB87-DD7B-4E2B-BD00-156EF9740DB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98D4BB87-DD7B-4E2B-BD00-156EF9740DB3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CABC05A5-E419-48BB-B4DD-40ED4584BAD9}
+	EndGlobalSection
+EndGlobal
